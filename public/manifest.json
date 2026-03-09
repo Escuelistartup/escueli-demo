@@ -1,0 +1,17 @@
+{
+  "name": "Escueli",
+  "short_name": "Escueli",
+  "description": "Your family's backup system.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#3E5F54",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
